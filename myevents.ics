@@ -37,7 +37,7 @@ UID:https://www.youtube.com/c/AsoulMoments
 DTSTART;TZID=Asia/Shanghai:20221115T211000
 SUMMARY:贝拉单播
 URL:https://live.bilibili.com/22632424
-DESCRIPTION:@贝拉：游乐园爱好者上线！\n https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:贝拉单播：游乐园爱好者上线！\n https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -51,7 +51,7 @@ UID:https://www.youtube.com/c/AsoulMoments
 DTSTART;TZID=Asia/Shanghai:20221116T200000
 SUMMARY:向晚单播
 URL:https://live.bilibili.com/22625025
-DESCRIPTION:@向晚：哼！今天我就是最叛逆的\n https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:向晚单播：哼！今天我就是最叛逆的\n https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -65,7 +65,7 @@ UID:https://www.youtube.com/c/AsoulMoments
 DTSTART;TZID=Asia/Shanghai:20221116T211000
 SUMMARY:乃琳单播
 URL:https://live.bilibili.com/22625027
-DESCRIPTION:@乃琳：暖冬歌会\n https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:乃琳单播：暖冬歌会\n https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@乃琳Queen 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
