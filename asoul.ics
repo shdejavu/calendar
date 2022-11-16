@@ -13,7 +13,7 @@ DTSTART;TZID=Asia/Shanghai:20221117T200000
 DURATION:PT2H
 SUMMARY:A-SOUL小剧场
 URL:bilibili://live/22625025
-DESCRIPTION:@A-SOUL夜谈第七十二期：A-SOUL间谍过家家\n\n https://live.bilibili.com/22625025
+DESCRIPTION:@A-SOUL夜谈第六十二期：猜猜我说的是谁\n\n https://live.bilibili.com/22625025
 LOCATION:@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -28,7 +28,7 @@ DTSTART;TZID=Asia/Shanghai:20221118T200000
 DURATION:PT2H
 SUMMARY:A-SOUL小剧场
 URL:bilibili://live/22625025
-DESCRIPTION:@A-SOUL夜谈第七十二期：A-SOUL间谍过家家\n\n https://live.bilibili.com/22625025
+DESCRIPTION:@A-SOUL小剧场第七十二期：A-SOUL间谍过家家\n\n https://live.bilibili.com/22625025
 LOCATION:@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
