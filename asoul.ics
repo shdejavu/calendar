@@ -13,8 +13,8 @@ DTSTART;TZID=Asia/Shanghai:20221115T200000
 DURATION:PT60M
 SUMMARY:嘉然单播
 URL:bilibili://live/22637261
-DESCRIPTION:@嘉然：女团舞大集合！\n\n https://live.bilibili.com/22637261
-LOCATION:@嘉然今天吃什么 直播间
+DESCRIPTION:嘉然：女团舞大集合！\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@嘉然今天吃什么 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -28,8 +28,8 @@ DTSTART;TZID=Asia/Shanghai:20221115T211000
 DURATION:PT60M
 SUMMARY:贝拉单播
 URL:bilibili://live/22632424
-DESCRIPTION:@贝拉：游乐园爱好者上线！\n\n https://live.bilibili.com/22632424
-LOCATION:@贝拉Kira 直播间
+DESCRIPTION:贝拉：游乐园爱好者上线！\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -43,8 +43,8 @@ DTSTART;TZID=Asia/Shanghai:20221116T200000
 DURATION:PT60M
 SUMMARY:向晚单播
 URL:bilibili://live/22625025
-DESCRIPTION:@向晚：哼！今天我就是最叛逆的\n\n https://live.bilibili.com/22625025
-LOCATION:@向晚大魔王 直播间
+DESCRIPTION:向晚：哼！今天我就是最叛逆的\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -58,8 +58,8 @@ DTSTART;TZID=Asia/Shanghai:20221116T211000
 DURATION:PT60M
 SUMMARY:乃琳单播
 URL:bilibili://live/22625027
-DESCRIPTION:@乃琳：暖冬歌会\n\n https://live.bilibili.com/22625027
-LOCATION:@乃琳Queen 直播间
+DESCRIPTION:乃琳：暖冬歌会\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@乃琳Queen 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -73,8 +73,8 @@ DTSTART;TZID=Asia/Shanghai:20221117T200000
 DURATION:PT2H
 SUMMARY:A-SOUL夜谈
 URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL夜谈第六十二期：猜猜我说的是谁～\n\n https://live.bilibili.com/22632424
-LOCATION:@贝拉Kira 直播间
+DESCRIPTION:A-SOUL夜谈第六十二期：猜猜我说的是谁～\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -88,8 +88,8 @@ DTSTART;TZID=Asia/Shanghai:20221118T200000
 DURATION:PT2H
 SUMMARY:A-SOUL小剧场
 URL:bilibili://live/22625025
-DESCRIPTION:A-SOUL小剧场第七十二期：A-SOUL间谍过家家\n\n https://live.bilibili.com/22625025
-LOCATION:@向晚大魔王 直播间
+DESCRIPTION:A-SOUL小剧场第七十二期：A-SOUL间谍过家家\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
