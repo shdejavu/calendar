@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//youtube.com//A-soul Moments
+PRODID:-//youtube.com//Asoul Moments
 NAME:ASOUL 直播日程表
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
@@ -22,7 +22,7 @@ DTSTART;TZID=Asia/Shanghai:20221115T200000
 DTEND;TZID=Asia/Shanghai:20221115T210000
 SUMMARY:嘉然单播
 URL:https://live.bilibili.com/22637261
-DESCRIPTION:嘉然单播：女团舞大集合！\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@嘉然单播：女团舞大集合！\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@嘉然今天吃什么 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37,7 +37,7 @@ DTSTART;TZID=Asia/Shanghai:20221115T211000
 DTEND;TZID=Asia/Shanghai:20221115T221000
 SUMMARY:贝拉单播
 URL:https://live.bilibili.com/22632424
-DESCRIPTION:贝拉单播：游乐园爱好者上线！\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@贝拉单播：游乐园爱好者上线！\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20221116T200000
 DTEND;TZID=Asia/Shanghai:20221116T210000
 SUMMARY:向晚单播
 URL:https://live.bilibili.com/22625025
-DESCRIPTION:向晚单播：哼！今天我就是最叛逆的\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@向晚单播：哼！今天我就是最叛逆的\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -67,7 +67,7 @@ DTSTART;TZID=Asia/Shanghai:20221116T211000
 DTEND;TZID=Asia/Shanghai:20221116T221000
 SUMMARY:乃琳单播
 URL:https://live.bilibili.com/22625027
-DESCRIPTION:乃琳单播：暖冬歌会\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@乃琳单播：暖冬歌会\n https://live.bilibili.com/22625027\n https://www.youtube.com/c/AsoulMoments/live
 LOCATION:@乃琳Queen 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -82,7 +82,7 @@ DTSTART;TZID=Asia/Shanghai:20221117T200000
 DTEND;TZID=Asia/Shanghai:20221117T220000
 SUMMARY:A-SOUL夜谈
 URL:https://live.bilibili.com/22632424
-DESCRIPTION:A-SOUL夜谈第六十二期：猜猜我说的是谁～\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@A-SOUL夜谈第六十二期：猜猜我说的是谁～\n https://live.bilibili.com/22632424\n https://www.youtube.com/c/AsoulMoments/live
 LOCATION:@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -97,7 +97,7 @@ DTSTART;TZID=Asia/Shanghai:20221118T200000
 DTEND;TZID=Asia/Shanghai:20221118T220000
 SUMMARY:A-SOUL小剧场
 URL:https://live.bilibili.com/22625025
-DESCRIPTION:A-SOUL小剧场第七十二期：A-SOUL间谍过家家\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:@A-SOUL小剧场第七十二期：A-SOUL间谍过家家\n https://live.bilibili.com/22625025\n https://www.youtube.com/c/AsoulMoments/live
 LOCATION:@向晚大魔王 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
