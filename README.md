@@ -1,4 +1,4 @@
 # calendar
-Iphone: Settings -> Calendar -> Add Calendar ->
-Google Calendar: Other Calendars -> Add. From URL.
-Ical: Open asoul.ics
+Iphone: Settings > Calendar > Accounts > Add Account > Other. \
+Google Calendar: Other Calendars > Add. From URL. \
+Ical: Open asoul.ics \
