@@ -3,9 +3,9 @@ PRODID:-//A-SOUL MOMENTS//ASOUL Live Schedule//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:ASOUL 直播日程表
+X-WR-CALNAME:ASOUL直播日程表
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:ASOUL 直播日程表，由 A-SOUL MOMENTS 制作
+X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
@@ -14,7 +14,7 @@ DURATION:PT60M
 SUMMARY:嘉然单播
 URL:bilibili://live/22637261
 DESCRIPTION:嘉然：女团舞大集合！\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@嘉然今天吃什么 直播间
+LOCATION:bilibili@嘉然今天吃什么
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -29,7 +29,7 @@ DURATION:PT60M
 SUMMARY:贝拉单播
 URL:bilibili://live/22632424
 DESCRIPTION:贝拉：游乐园爱好者上线！\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@贝拉Kira 直播间
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -44,7 +44,7 @@ DURATION:PT60M
 SUMMARY:向晚单播
 URL:bilibili://live/22625025
 DESCRIPTION:向晚：哼！今天我就是最叛逆的\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@向晚大魔王 直播间
+LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -59,7 +59,7 @@ DURATION:PT60M
 SUMMARY:乃琳单播
 URL:bilibili://live/22625027
 DESCRIPTION:乃琳：暖冬歌会\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@乃琳Queen 直播间
+LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -74,7 +74,7 @@ DURATION:PT2H
 SUMMARY:A-SOUL夜谈
 URL:bilibili://live/22632424
 DESCRIPTION:A-SOUL夜谈第六十二期：猜猜我说的是谁～\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@贝拉Kira 直播间
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -89,7 +89,7 @@ DURATION:PT2H
 SUMMARY:A-SOUL小剧场
 URL:bilibili://live/22625025
 DESCRIPTION:A-SOUL小剧场第七十二期：A-SOUL间谍过家家\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@向晚大魔王 直播间
+LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
