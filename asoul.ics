@@ -9,11 +9,11 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20221116T200000
+DTSTART;TZID=Asia/Shanghai:20221123T211000
 DURATION:PT60M
-SUMMARY:嘉然单播
+SUMMARY:嘉然单播 和夹心糖一起吃__
 URL:bilibili://live/22637261
-DESCRIPTION:嘉然：女团舞大集合！\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -24,11 +24,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20221116T211000
+DTSTART;TZID=Asia/Shanghai:20221123T200000
 DURATION:PT60M
-SUMMARY:贝拉单播
+SUMMARY:贝拉单播 和贝极星的周日计划～
 URL:bilibili://live/22632424
-DESCRIPTION:贝拉：游乐园爱好者上线！\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,11 +39,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20221117T200000
+DTSTART;TZID=Asia/Shanghai:20221124T200000
 DURATION:PT60M
-SUMMARY:向晚单播
+SUMMARY:向晚单播 元气？风情？我全都要！
 URL:bilibili://live/22625025
-DESCRIPTION:向晚：哼！今天我就是最叛逆的\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -54,11 +54,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20221117T211000
+DTSTART;TZID=Asia/Shanghai:20221124T211000
 DURATION:PT60M
-SUMMARY:乃琳单播
+SUMMARY:乃琳单播 这件事我坚持很久啦～
 URL:bilibili://live/22625027
-DESCRIPTION:乃琳：暖冬歌会\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -69,12 +69,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20221118T200000
+DTSTART;TZID=Asia/Shanghai:20221125T200000
 DURATION:PT2H
-SUMMARY:A-SOUL夜谈
-URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL夜谈第六十二期：猜猜我说的是谁～\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@贝拉Kira
+SUMMARY:A-SOUL夜谈 人间真实 也是人间“矛盾体”
+URL:bilibili://live/22637261
+DESCRIPTION:A-SOUL夜谈第六十三期\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@嘉然今天吃什么
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -84,12 +84,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20221119T200000
+DTSTART;TZID=Asia/Shanghai:20221126T200000
 DURATION:PT2H
-SUMMARY:A-SOUL小剧场
-URL:bilibili://live/22625025
-DESCRIPTION:A-SOUL小剧场第七十二期：A-SOUL间谍过家家\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@向晚大魔王
+SUMMARY:A-SOUL小剧场 枝江好声音～A-SOUL特别版
+URL:bilibili://live/22625027
+DESCRIPTION:A-SOUL小剧场第七十三期\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
