@@ -9,9 +9,9 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20221123T211000
+DTSTART;TZID=Asia/Shanghai:20221130T211000
 DURATION:PT60M
-SUMMARY:嘉然单播 和嘉心糖一起吃__
+SUMMARY:嘉然单播 小然小然～ 我在！
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
@@ -24,9 +24,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20221123T200000
+DTSTART;TZID=Asia/Shanghai:20221130T200000
 DURATION:PT60M
-SUMMARY:贝拉单播 和贝极星的周日计划～
+SUMMARY:贝拉单播 一起来看比赛
 URL:bilibili://live/22632424
 DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
@@ -39,9 +39,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20221124T200000
+DTSTART;TZID=Asia/Shanghai:20221201T200000
 DURATION:PT60M
-SUMMARY:向晚单播 元气？风情？我全都要！
+SUMMARY:向晚单播 快乐分你一半
 URL:bilibili://live/22625025
 DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -54,9 +54,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20221124T211000
+DTSTART;TZID=Asia/Shanghai:20221201T211000
 DURATION:PT60M
-SUMMARY:乃琳单播 这件事我坚持很久啦～
+SUMMARY:乃琳单播 给你看点想看的！
 URL:bilibili://live/22625027
 DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
@@ -69,12 +69,27 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20221125T200000
+DTSTART;TZID=Asia/Shanghai:20221202T200000
 DURATION:PT2H
-SUMMARY:A-SOUL夜谈 人间真实 也是人间“矛盾体”
-URL:bilibili://live/22637261
-DESCRIPTION:A-SOUL夜谈第六十三期\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@嘉然今天吃什么
+SUMMARY:A-SOUL夜谈 最近的生活有点怪
+URL:bilibili://live/22625025
+DESCRIPTION:A-SOUL夜谈第六十四期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@向晚大魔王
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:AsoulDrama
+DTSTART;TZID=Asia/Shanghai:20221203T200000
+DURATION:PT2H
+SUMMARY:贝拉&乃琳双播 这个家只有一个“女主人“！
+URL:bilibili://live/22632424
+DESCRIPTION:乃贝双播\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
