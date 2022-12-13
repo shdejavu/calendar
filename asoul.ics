@@ -9,7 +9,7 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20211130T211000
+DTSTART;TZID=Asia/Shanghai:20221218T211000
 DURATION:PT60M
 SUMMARY:嘉然单播 小然小然～ 我在！
 URL:bilibili://live/22637261
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20211130T200000
+DTSTART;TZID=Asia/Shanghai:20221218T200000
 DURATION:PT60M
 SUMMARY:贝拉单播 一起来看比赛
 URL:bilibili://live/22632424
@@ -39,9 +39,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20211201T200000
+DTSTART;TZID=Asia/Shanghai:202212151T200000
 DURATION:PT60M
-SUMMARY:向晚单播 快乐分你一半
+SUMMARY:向晚单播 只见一面的你
 URL:bilibili://live/22625025
 DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -54,9 +54,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20211201T211000
+DTSTART;TZID=Asia/Shanghai:20221215T211000
 DURATION:PT60M
-SUMMARY:乃琳单播 给你看点想看的！
+SUMMARY:乃琳单播 想把我唱给你听
 URL:bilibili://live/22625027
 DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
@@ -69,11 +69,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20211202T200000
+DTSTART;TZID=Asia/Shanghai:20221216T200000
 DURATION:PT2H
-SUMMARY:A-SOUL夜谈 最近的生活有点怪
+SUMMARY:A-SOUL夜谈 谁是枝江“梗”王？
 URL:bilibili://live/22625025
-DESCRIPTION:A-SOUL夜谈第六十四期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL夜谈第六十五期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -84,27 +84,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20211203T200000
+DTSTART;TZID=Asia/Shanghai:20221217T200000
 DURATION:PT2H
-SUMMARY:贝拉&乃琳双播 这个家只有一个“女主人“！
+SUMMARY:A-SOUL小剧场 练习室开放日3.0
 URL:bilibili://live/22632424
-DESCRIPTION:乃贝双播\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL小剧场第七十四期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:1
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221116T200000Z
-UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20221126T200000
-DURATION:PT2H
-SUMMARY:A-SOUL小剧场 枝江好声音～A-SOUL特别版
-URL:bilibili://live/22625027
-DESCRIPTION:A-SOUL小剧场第七十三期\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -150,6 +135,36 @@ SUMMARY:嘉然&向晚双播 2023嘉然向晚的双播计划
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:DianaSolo
+DTSTART;TZID=Asia/Shanghai:20221214T200000
+DURATION:PT60M
+SUMMARY:嘉然单播 嘉心糖心中的TOP5是？
+URL:bilibili://live/22637261
+DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@嘉然今天吃什么
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:BellaSolo
+DTSTART;TZID=Asia/Shanghai:20221214T211000
+DURATION:PT60M
+SUMMARY:贝拉单播 我们一起写的故事～
+URL:bilibili://live/22632424
+DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
