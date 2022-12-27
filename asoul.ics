@@ -9,9 +9,9 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20221218T211000
+DTSTART;TZID=Asia/Shanghai:20221228T211000
 DURATION:PT60M
-SUMMARY:嘉然单播 小然小然～ 我在！
+SUMMARY:嘉然单播 嘉心糖，快帮我想想！
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
@@ -24,9 +24,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20221218T200000
+DTSTART;TZID=Asia/Shanghai:20221228T200000
 DURATION:PT60M
-SUMMARY:贝拉单播 一起来看比赛
+SUMMARY:贝拉单播 病好了，脑子里全是点子！
 URL:bilibili://live/22632424
 DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
@@ -39,9 +39,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20221215T200000
+DTSTART;TZID=Asia/Shanghai:20221229T200000
 DURATION:PT60M
-SUMMARY:向晚单播 只见一面的你
+SUMMARY:向晚单播 这是什么味道？
 URL:bilibili://live/22625025
 DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -54,9 +54,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20221215T211000
+DTSTART;TZID=Asia/Shanghai:20221229T211000
 DURATION:PT60M
-SUMMARY:乃琳单播 想把我唱给你听
+SUMMARY:乃琳单播 挑战一下童年阴影
 URL:bilibili://live/22625027
 DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
@@ -69,12 +69,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20221216T200000
+DTSTART;TZID=Asia/Shanghai:20221231T200000
 DURATION:PT2H
 SUMMARY:A-SOUL夜谈 谁是枝江“梗”王？
-URL:bilibili://live/22625025
-DESCRIPTION:A-SOUL夜谈第六十五期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@向晚大魔王
+URL:bilibili://live/22637261
+DESCRIPTION:A-SOUL夜谈第六十六期\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@嘉然今天吃什么
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -114,12 +114,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaEileen
-DTSTART;TZID=Asia/Shanghai:20221207T200000
+DTSTART;TZID=Asia/Shanghai:20221230T200000
 DURATION:PT60M
-SUMMARY:贝拉&乃琳双播 我想和你唱
-URL:bilibili://live/22632424
-DESCRIPTION:乃贝双播\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@贝拉Kira
+SUMMARY:贝拉&乃琳双播 这个家 只有一个“女主人”！
+URL:bilibili://live/22625027
+DESCRIPTION:乃贝双播\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -127,14 +127,14 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221116T200000Z
+DTSTAMP:20230101T200000Z
 UID:DianaAvA
-DTSTART;TZID=Asia/Shanghai:20221207T211000
+DTSTART;TZID=Asia/Shanghai:20230101T211000
 DURATION:PT60M
-SUMMARY:嘉然&向晚双播 2023嘉然向晚的双播计划
-URL:bilibili://live/22637261
-DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@嘉然今天吃什么
+SUMMARY:A-SOUL夜谈 今天，想和你做的事
+URL:bilibili://live/22632424
+DESCRIPTION:A-SOUL夜谈第六十七期https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
