@@ -72,9 +72,9 @@ UID:AsoulNightTalk
 DTSTART;TZID=Asia/Shanghai:20230106T200000
 DURATION:PT2H
 SUMMARY:A-SOUL夜谈 永远不要低估TA的实力
-URL:bilibili://live/22637261
-DESCRIPTION:A-SOUL夜谈第六十八期\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@嘉然今天吃什么
+URL:bilibili://live/22625025
+DESCRIPTION:A-SOUL夜谈第六十八期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -87,9 +87,9 @@ UID:AsoulDrama
 DTSTART;TZID=Asia/Shanghai:20230107T200000
 DURATION:PT2H
 SUMMARY:A-SOUL小剧场 枝江超越班
-URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@贝拉Kira
+URL:bilibili://live/22625027
+DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
