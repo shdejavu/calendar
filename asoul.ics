@@ -9,9 +9,9 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20230104T211000
+DTSTART;TZID=Asia/Shanghai:20230111T200000
 DURATION:PT60M
-SUMMARY:嘉然单播 送什么礼物好呢？
+SUMMARY:嘉然单播 然比的任意门
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
@@ -24,9 +24,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20230104T200000
+DTSTART;TZID=Asia/Shanghai:20230111T211000
 DURATION:PT60M
-SUMMARY:贝拉单播 刻在记忆里的声音
+SUMMARY:贝拉单播 能不能好好说话！
 URL:bilibili://live/22632424
 DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
@@ -39,9 +39,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20230105T200000
+DTSTART;TZID=Asia/Shanghai:20230112T200000
 DURATION:PT60M
-SUMMARY:向晚单播 快乐分你一半
+SUMMARY:向晚单播 过年囤点啥？
 URL:bilibili://live/22625025
 DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -54,9 +54,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20230105T211000
+DTSTART;TZID=Asia/Shanghai:20230112T211000
 DURATION:PT60M
-SUMMARY:乃琳单播 乃琳最钟爱的是？
+SUMMARY:乃琳单播 乃琳2022不正经年终总结
 URL:bilibili://live/22625027
 DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
@@ -84,12 +84,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20230107T200000
+DTSTART;TZID=Asia/Shanghai:20230115T200000
 DURATION:PT2H
-SUMMARY:A-SOUL小剧场 枝江超越班
-URL:bilibili://live/22625027
-DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
-LOCATION:bilibili@乃琳Queen
+SUMMARY:A-SOUL小剧场 相亲相爱小年夜
+URL:bilibili://live/22632424
+DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -165,6 +165,51 @@ SUMMARY:贝拉单播 一说这个！我又热血沸腾啦
 URL:bilibili://live/22632424
 DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:AvASolo2
+DTSTART;TZID=Asia/Shanghai:20230114T211000
+DURATION:PT60M
+SUMMARY:向晚单播 这些小动作很难不去做
+URL:bilibili://live/22625025
+DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@向晚大魔王
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:EileenSolo2
+DTSTART;TZID=Asia/Shanghai:20230114T200000
+DURATION:PT60M
+SUMMARY:乃琳单播 本殿今天就讲与你听！
+URL:bilibili://live/22625027
+DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@乃琳Queen
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T200000Z
+UID:AsoulEvent2
+DTSTART;TZID=Asia/Shanghai:20230113T200000
+DURATION:PT2H
+SUMMARY:A-SOULX生死狙击2
+URL:bilibili://live/22637261
+DESCRIPTION:A-SOUL工商\nhttps://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
+LOCATION:bilibili@嘉然今天吃什么
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
