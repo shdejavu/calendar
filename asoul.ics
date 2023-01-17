@@ -9,9 +9,9 @@ X-WR-CALDESC:ASOUL直播日程表，由 A-SOUL MOMENTS 制作
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo
-DTSTART;TZID=Asia/Shanghai:20230111T200000
+DTSTART;TZID=Asia/Shanghai:20230119T211000
 DURATION:PT60M
-SUMMARY:嘉然单播 然比的任意门
+SUMMARY:嘉然单播 如果这样陪嘉心糖过年的话？
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
@@ -24,9 +24,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaSolo
-DTSTART;TZID=Asia/Shanghai:20230111T211000
+DTSTART;TZID=Asia/Shanghai:20230119T200000
 DURATION:PT60M
-SUMMARY:贝拉单播 能不能好好说话！
+SUMMARY:贝拉单播 如果贝拉来张罗过年的话？
 URL:bilibili://live/22632424
 DESCRIPTION:https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
@@ -39,9 +39,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AvASolo
-DTSTART;TZID=Asia/Shanghai:20230112T200000
+DTSTART;TZID=Asia/Shanghai:20230120T200000
 DURATION:PT60M
-SUMMARY:向晚单播 过年囤点啥？
+SUMMARY:向晚单播 过年啦！来领年货啦！
 URL:bilibili://live/22625025
 DESCRIPTION:https://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -54,9 +54,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:EileenSolo
-DTSTART;TZID=Asia/Shanghai:20230112T211000
+DTSTART;TZID=Asia/Shanghai:20230117T211000
 DURATION:PT60M
-SUMMARY:乃琳单播 乃琳2022不正经年终总结
+SUMMARY:乃琳单播 一起玩“有没有”吧～
 URL:bilibili://live/22625027
 DESCRIPTION:https://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
@@ -69,9 +69,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20230106T200000
+DTSTART;TZID=Asia/Shanghai:20230124T200000
 DURATION:PT2H
-SUMMARY:A-SOUL夜谈 永远不要低估TA的实力
+SUMMARY:A-SOUL夜谈 A-SOUL超灵验新年预测
 URL:bilibili://live/22625025
 DESCRIPTION:A-SOUL夜谈第六十八期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
@@ -84,9 +84,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20230115T200000
+DTSTART;TZID=Asia/Shanghai:20230118T200000
 DURATION:PT2H
-SUMMARY:A-SOUL小剧场 相亲相爱小年夜
+SUMMARY:A-SOUL小剧场 枝江年货节
 URL:bilibili://live/22632424
 DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
@@ -114,11 +114,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:BellaEileen
-DTSTART;TZID=Asia/Shanghai:20221230T200000
+DTSTART;TZID=Asia/Shanghai:20230126T200000
 DURATION:PT60M
-SUMMARY:贝拉&乃琳双播 这个家 只有一个“女主人”！
+SUMMARY:向晚&贝拉双播 那些年 我们一起追的“它”
 URL:bilibili://live/22625027
-DESCRIPTION:乃贝双播\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:向晚&贝拉双播\nhttps://live.bilibili.com/22625027\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@乃琳Queen
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -129,11 +129,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230101T200000Z
 UID:DianaAvA
-DTSTART;TZID=Asia/Shanghai:20230101T211000
+DTSTART;TZID=Asia/Shanghai:20230125T200000
 DURATION:PT60M
-SUMMARY:A-SOUL夜谈 今天，想和你做的事
+SUMMARY:A-SOUL小剧场 谁是新春最强欧皇
 URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL夜谈第六十七期https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL小剧场第六十七期https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -144,9 +144,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:DianaSolo2
-DTSTART;TZID=Asia/Shanghai:20230108T211000
+DTSTART;TZID=Asia/Shanghai:20230127T200000
 DURATION:PT60M
-SUMMARY:嘉然单播 小然小然～ 我在！
+SUMMARY:嘉然&乃琳双播 一“大”一“小”猜猜猜
 URL:bilibili://live/22637261
 DESCRIPTION:https://live.bilibili.com/22637261\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@嘉然今天吃什么
@@ -204,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulEvent2
-DTSTART;TZID=Asia/Shanghai:20230113T200000
+DTSTART;TZID=Asia/Shanghai:20230117T200000
 DURATION:PT2H
 SUMMARY:A-SOULX生死狙击2
 URL:bilibili://live/22637261
