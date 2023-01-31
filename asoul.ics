@@ -69,11 +69,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulNightTalk
-DTSTART;TZID=Asia/Shanghai:20230124T200000
+DTSTART;TZID=Asia/Shanghai:20230204T200000
 DURATION:PT2H
-SUMMARY:A-SOUL夜谈 A-SOUL超灵验新年预测
+SUMMARY:A-SOUL夜谈 最近的生活有点怪
 URL:bilibili://live/22625025
-DESCRIPTION:A-SOUL夜谈第六十八期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL夜谈第六十九期\nhttps://live.bilibili.com/22625025\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@向晚大魔王
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -84,11 +84,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221116T200000Z
 UID:AsoulDrama
-DTSTART;TZID=Asia/Shanghai:20230118T200000
+DTSTART;TZID=Asia/Shanghai:20230203T200000
 DURATION:PT2H
-SUMMARY:A-SOUL小剧场 枝江年货节
+SUMMARY:A-SOUL小剧场 练习室开放日3.0
 URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL小剧场第七十五期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL小剧场第七十六期\nhttps://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -129,11 +129,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230101T200000Z
 UID:DianaAvA
-DTSTART;TZID=Asia/Shanghai:20230125T200000
+DTSTART;TZID=Asia/Shanghai:20230205T200000
 DURATION:PT60M
-SUMMARY:A-SOUL小剧场 谁是新春最强欧皇
+SUMMARY:A-SOUL小剧场 枝江上元夜
 URL:bilibili://live/22632424
-DESCRIPTION:A-SOUL小剧场第六十七期https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
+DESCRIPTION:A-SOUL小剧场第七十期https://live.bilibili.com/22632424\nhttps://www.youtube.com/c/AsoulMoments/live
 LOCATION:bilibili@贝拉Kira
 BEGIN:VALARM
 ACTION:DISPLAY
